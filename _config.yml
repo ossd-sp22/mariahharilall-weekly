@@ -13,7 +13,7 @@ description: A senior at New York University studying computer science.
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/IMG_8669.PNG
+avatar: https://ossd-sp22.github.io/mariahharilall-weekly/images//IMG_8669.PNG
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 
